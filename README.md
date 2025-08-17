@@ -40,7 +40,7 @@ We help our clients:
 - **JD Edwards** - Provide [JDE](https://www.differentia.consulting/jdedwards/) Enterprise resource planning optimisation and CNC/integration and upgrade services
 - **Cyferd** - Deliver [Cyferd](https://www.differentia.consulting/cyferd/) AI augmented platform solutions built and orchestrated to transform enterprises and industries
 - **Cloud Platforms** - [Consulting services](https://www.differentia.consulting/services/consulting-services) and expertise for Azure, AWS, Google, and hybrid deployments
-- **Data Integration** - Governed data ETL/ELT pipelines and real-time open data lakehouse [(Qlik Talend Cloud)](https://www.differentia.consulting/qlik/services/qlik-talend-cloud-services), data processing services
+- **Data Integration** - Governed data ETL/ELT pipelines and real-time open data lakehouse [(Qlik Talend Cloud services)](https://www.differentia.consulting/qlik/services/qlik-talend-cloud-services), data processing services
 
 ## Get in Touch
 
