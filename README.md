@@ -37,6 +37,7 @@ We help our clients:
 ## Technologies & Partnership Services
 
 - **Qlik** - Certified [Qlik partner](https://www.differentia.consulting/qlik-partner/) delivering AI-enhanced analytics solutions, services and [Qlik managed services](https://www.differentia.consulting/qlik/services/qlik-managed-services), since 2008.
+[Qlik Trial](https://www.differentia.consulting/qlik/qlik-trial)
 - **JD Edwards** - Provide [JDE](https://www.differentia.consulting/jdedwards/) Enterprise resource planning optimisation and CNC/integration and upgrade services
 - **Cyferd** - Deliver [Cyferd](https://www.differentia.consulting/cyferd/) AI augmented platform solutions built and orchestrated to transform enterprises and industries
 - **Cloud Platforms** - [Consulting services](https://www.differentia.consulting/services/consulting-services) and expertise for Azure, AWS, Google, and hybrid deployments
